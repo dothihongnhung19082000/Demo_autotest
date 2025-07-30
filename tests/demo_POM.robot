@@ -42,5 +42,5 @@ TC6 - Test
 
 
 Test_Conflict
-    Log to console    abc
+    Log to console    abc   ancn
 
