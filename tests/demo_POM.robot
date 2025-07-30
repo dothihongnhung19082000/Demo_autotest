@@ -39,4 +39,7 @@ TC5 - Test
 
 TC6 - Test
     PDP - Verify Product Is Added Success
+    Log to console    smmsm
+    Log to console    abc
+
 
