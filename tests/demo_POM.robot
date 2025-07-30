@@ -43,3 +43,7 @@ TC6 - Test
     Log to console    abc
 
 
+
+Test_Conflict
+    Log to console    abc   ancn
+
