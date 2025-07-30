@@ -32,3 +32,7 @@ TC4 - User Can Add Product To Cart
     PDP - Verify Product Detail Information
     PDP - Add Product To Cart
     PDP - Verify Product Is Added Success
+
+
+TC5 - Test
+    Log dir
